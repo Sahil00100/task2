@@ -1,4 +1,5 @@
-Test: :
+Django==3.2
+Pip install requests
 
 Admin :
  username=admin@gmail.com
